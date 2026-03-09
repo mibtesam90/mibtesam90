@@ -22,7 +22,6 @@ My work focuses on **deployable, revenue-ready products** with strong emphasis o
 
 * **Pop It** — Digital Business Card Platform - https://play.google.com/store/apps/details?id=com.popit2&hl=en
 * **Pop It Teams** — Enterprise Networking Platform - https://teams.popitnl.nl/
-* **Ride-Hailing Platform** — Uber-like mobility system 
 * **Events Management Platform** - https://staging.popitevents.co/signin 
 * **E-Commerce Platform** - (Ecommerce App Controlled from here: https://d-go.dassoft.org)
 * **Marketplace — Ebey.pk** - https://ebey.pk/
